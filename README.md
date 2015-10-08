@@ -1,2 +1,2 @@
-# RaizBot
-My personal IRC bot
+##### Moved to NotABug (https://notabug.org)
+##### https://notabug.org/raiz/raizbot
